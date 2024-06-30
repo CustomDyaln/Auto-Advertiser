@@ -1,12 +1,12 @@
 {
     "token": "",
-    "message": "",
+    "message": "# **Trading perms and gamepass**",
     "channels": "",
     "delay": "",
     "status": "",
     "customStatus": "",
     "dmResponse": "",
     "webhook": "",
-    "webhookPing": "",
+    "webhookPing": "https://discord.com/api/webhooks/1256761731774943273/fKBUaiAaJO0EAXSZW_WAvtmTxEUn-W4hABxgoftvTOT-uusyGuCD0wvcC1ZgVf5HkJzN",
     "repeatBypass": ""
 }
